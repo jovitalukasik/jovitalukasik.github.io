@@ -21,9 +21,9 @@ News
 
 Publications
 ---
-**Learning Where to Look -- Generative NAS is Surprisingly Efficient**
-J. Lukasik, S. Jung, M. Keuper
-ECCV 2022    
+**Learning Where to Look -- Generative NAS is Surprisingly Efficient**   
+J. Lukasik, S. Jung, M. Keuper  
+ECCV 2022      
 [PDF](https://arxiv.org/abs/2203.08734) | [Code](https://github.com/jovitalukasik/AG-Net) | [Poster](https://jung.vision/poster/2022_Generative_NAS_Poster.pdf)
 
 **Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks**
@@ -36,9 +36,9 @@ J. Geiping, J. Lukasik, M. Keuper, M. Moeller
 NeurIPS workshop on Inverse Problems  
 [PDF](https://openreview.net/forum?id=ty5XCitJfLA) | [Poster](https://openreview.net/attachment?id=ty5XCitJfLA&name=conference_poster)
 
-**Smooth variational graph embeddings for efficient neural architecture search**
-J. Lukasik, D. Friede, A. Zela, F. Hutter, M. Keuper  
-IJCNN 2021  
+**Smooth variational graph embeddings for efficient neural architecture search**  
+J. Lukasik, D. Friede, A. Zela, F. Hutter, M. Keuper    
+IJCNN 2021    
 [PDF](https://arxiv.org/pdf/2010.04683.pdf) | [Code](https://github.com/jovitalukasik/SVGe)
  
 **Neural Architecture Performance Prediction Using Graph Neural Networks**  
