@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Jovita Lukasik"
+title                    : "Jovita Lukasik"
 title_separator          : "-"
 name                     : &name "Jovita Lukasik"
 description              : &description "Jovita Lukasik, PhD candidate| Max-Planck Institute for Informatics"
