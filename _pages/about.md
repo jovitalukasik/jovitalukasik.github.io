@@ -32,7 +32,7 @@ ICLR 2022
 [PDF](https://openreview.net/forum?id=OnpFa95RVqs)
 
 **DARTS for Inverse Problems: a Study on Sensitivity**  
-J. Geiping*, **J. Lukasik***, M. Keuper, M. Moeller  
+J. Geiping*,  **J. Lukasik***, M. Keuper, M. Moeller  
 NeurIPS workshop on Inverse Problems  
 [PDF](https://openreview.net/forum?id=ty5XCitJfLA) | [Poster](https://openreview.net/attachment?id=ty5XCitJfLA&name=conference_poster)
 
