@@ -22,12 +22,12 @@ News
 Publications
 ---
 **Learning Where to Look -- Generative NAS is Surprisingly Efficient**   
-*J. Lukasik**, S. Jung*, M. Keuper  
+*J. Lukasik** , S. Jung*, M. Keuper  
 ECCV 2022      
 [PDF](https://arxiv.org/abs/2203.08734) | [Code](https://github.com/jovitalukasik/AG-Net) | [Poster](https://jung.vision/poster/2022_Generative_NAS_Poster.pdf)
 
 **Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks**  
-A Zela*, JN Siems*, L Zimmer*, *J Lukasik*, M Keuper, F Hutter  
+A. Zela*, JN. Siems*, L. Zimmer*, *J. Lukasik*, M. Keuper, F. Hutter  
 ICLR 2022    
 [PDF](https://openreview.net/forum?id=OnpFa95RVqs)
 
