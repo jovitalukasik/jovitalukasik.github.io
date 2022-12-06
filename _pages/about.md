@@ -27,7 +27,7 @@ ECCV 2022
 [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) | [Code](https://github.com/jovitalukasik/AG-Net) | [Poster](https://jung.vision/poster/2022_Generative_NAS_Poster.pdf)
 
 **Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks**  
-A. Zela*, JN. Siems*, L. Zimmer*, **J. Lukasik**, M. Keuper, F. Hutter  
+A. Zela\*, JN. Siems\*, L. Zimmer\*, **J. Lukasik**, M. Keuper, F. Hutter  
 ICLR 2022    
 [PDF](https://openreview.net/forum?id=OnpFa95RVqs)
 
