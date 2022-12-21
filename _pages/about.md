@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the computer vision and machine learning group at the Max-Planck-Institute for Informatics and in the focus group of Computer Vision in the Data and Web Science Group at the University of Mannheim. Im am supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). Together with [Aaron Kelin](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zapella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
+I am a PhD candidate in the computer vision and machine learning group at the Max-Planck-Institute for Informatics and in the focus group of Computer Vision in the Data and Web Science Group at the University of Mannheim. Im am supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
 https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. I was part of the organization team of the second workshop on neural architecture search @ ICLR 2021.
 
 My research mainly focuses on efficient, unsupervised graph representations and embeddings for supervised surrogate models for neural architecture search.
