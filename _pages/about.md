@@ -23,7 +23,7 @@ Publications
 ---
 **Neural Architecture Design and Robustness: A Dataset**   
 S. Jung*, **J. Lukasik***, M. Keuper  
-ICLR 2023      
+accepted at ICLR 2023      
 [Website](https://steffen-jung.github.io/robustness/) | [PDF](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) | [Code](https://github.com/steffen-jung/robustness-dataset)  
 
 **Learning Where to Look -- Generative NAS is Surprisingly Efficient**   
