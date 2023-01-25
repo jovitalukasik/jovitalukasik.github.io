@@ -22,7 +22,7 @@ News
 Publications
 ---
 **Neural Architecture Design and Robustness: A Dataset**   
-S. Jung*, **J. Lukasik***, M. Keuper  
+S. Jung\*, **J. Lukasik**\*, M. Keuper  
 accepted at ICLR 2023      
 [Website](https://steffen-jung.github.io/robustness/) | [PDF](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) | [Code](https://github.com/steffen-jung/robustness-dataset)  
 
