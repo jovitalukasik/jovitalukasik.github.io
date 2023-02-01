@@ -17,6 +17,7 @@ My work was funded by the BMBF (Federal Ministry of Education and Research) in t
 News
 ---
 * 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
+* 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
 
 
 Publications
@@ -26,7 +27,7 @@ S. Jung\*, **J. Lukasik**\*, M. Keuper
 accepted at ICLR 2023      
 [Website](https://steffen-jung.github.io/robustness/) | [PDF](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) | [Code](https://github.com/steffen-jung/robustness-dataset)  
 
-**Learning Where to Look -- Generative NAS is Surprisingly Efficient**   
+**Learning Where to Look - Generative NAS is Surprisingly Efficient**   
 **J. Lukasik*** , S. Jung*, M. Keuper  
 ECCV 2022      
 [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) | [Code](https://github.com/jovitalukasik/AG-Net) | [Poster](https://jung.vision/poster/2022_Generative_NAS_Poster.pdf)
