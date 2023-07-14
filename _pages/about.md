@@ -17,7 +17,7 @@ My work was funded by the BMBF (Federal Ministry of Education and Research) in t
 News
 ---
 * 07/2023 I successfully defended my PhD thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Seach**
-* 04/2023 I started as a postdoctoral researcher at the University of Siegen in the Group of Prof. Dr. Michael Moeller
+* 04/2023 I started as a researcher at the University of Siegen in the Group of Prof. Dr. Michael Moeller
 * 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
 * 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
 
