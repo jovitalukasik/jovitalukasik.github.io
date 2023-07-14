@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the computer vision and machine learning group at the Max-Planck-Institute for Informatics and in the focus group of Computer Vision in the Data and Web Science Group at the University of Mannheim. I am supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
+I am a postdoctoral researcher in the [Computer Vision group at the University of Siegen](https://www.vsa.informatik.uni-siegen.de). Previously, I was a PhD candidate in the computer vision and machine learning group at the Max-Planck-Institute for Informatics and in the focus group of Computer Vision in the Data and Web Science Group at the University of Mannheim. I was supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
 https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. I was part of the organization team of the second workshop on neural architecture search @ ICLR 2021.
 
 My research mainly focuses on efficient, unsupervised graph representations and embeddings for supervised surrogate models for neural architecture search.
@@ -16,6 +16,8 @@ My work was funded by the BMBF (Federal Ministry of Education and Research) in t
 
 News
 ---
+* 07/2023 I successfully defended my PhD thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Seach**
+* 04/2023 I started as a postdoctoral researcher at the University of Siegen in the Group of Prof. Dr. Michael Moeller
 * 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
 * 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
 
