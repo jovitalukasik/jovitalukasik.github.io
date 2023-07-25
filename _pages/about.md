@@ -25,9 +25,18 @@ News
 
 Publications
 ---
+
+**An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**   
+**J. Lukasik**, M. Moeller,  M. Keuper  
+accepted at GCPR 2023
+
+**Differentiable Architecture Search: a One-Shot Method?**   
+**J. Lukasik**\*, J. Geiping*, M. Moeller,  M. Keuper  
+accepted at AutoML Conference 2023 Workshops
+
 **Neural Architecture Design and Robustness: A Dataset**   
 S. Jung\*, **J. Lukasik**\*, M. Keuper  
-accepted at ICLR 2023      
+ICLR 2023      
 [Website](https://steffen-jung.github.io/robustness/) | [PDF](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) | [Code](https://github.com/steffen-jung/robustness-dataset)  
 
 **Learning Where to Look - Generative NAS is Surprisingly Efficient**   
