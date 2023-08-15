@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jovita Lukasik"
 title_separator          : "-"
 name                     : &name "Jovita Lukasik"
-description              : &description "Jovita Lukasik, PhD candidate| Max-Planck Institute for Informatics"
+description              : &description "Jovita Lukasik, PostDoc| Generation and Robustness in Neural Architecture Search"
 url                      : https://jovitalukasik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jovita Lukasik"
   avatar           : "image_jovita.jpg"
-  bio              : "PhD candidate| Max-Planck Institute for Informatics and Data and Web Science Group University of Mannheim"
-  location         : "Mannheim /Germany"
+  bio              : "PostDoc | Generation and Robustness in Neural Architecture Search"
+  location         : "University of Siegen / Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TpsZenwAAAAJ&hl"
