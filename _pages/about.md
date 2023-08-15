@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the [Computer Vision group at the University of Siegen](https://www.vsa.informatik.uni-siegen.de). Previously, I was a PhD candidate in the computer vision and machine learning group at the Max-Planck-Institute for Informatics and in the focus group of Computer Vision in the Data and Web Science Group at the University of Mannheim. I was supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
+I am a PostDoc in the [Computer Vision group](https://www.vsa.informatik.uni-siegen.de) supervised by [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/) at the University of Siegen since April 2023, working in the DFG research unit "[Learning to Sense](https://www.learning2sense.de/)". Previously, I was a Ph.D. candidate supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) in the [Computer Vision and Machine Learning](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning) group at the Max-Planck-Institute for Informatics and in the focus group of [Computer Vision in the Data and Web Science Group](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/) at the University of Mannheim.
+
+I received my Bachelor of Science degree in Mathematical Finance at the University of Konstanz in 2015 and my Master of Science degree in Business Mathematics at the University of Mannheim in 2019.
+
+Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
 https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. I was part of the organization team of the second workshop on neural architecture search @ ICLR 2021.
 
 My research mainly focuses on efficient, unsupervised graph representations and embeddings for supervised surrogate models for neural architecture search.
@@ -17,8 +21,8 @@ My work was funded by the BMBF (Federal Ministry of Education and Research) in t
 News
 ---
 * 07/2023 Our paper [An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness](https://arxiv.org/pdf/2307.09365.pdf) was accepted at GCPR 2023
-* 07/2023 I successfully defended my PhD thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Seach**
-* 04/2023 I started as a researcher at the University of Siegen in the Group of Prof. Dr. Michael Moeller
+* 07/2023 I successfully defended my Ph.D. thesis with the title **[Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Search](https://madoc.bib.uni-mannheim.de/64915/1/dissertation_Lukasik.pdf)**
+* 04/2023 I started as a PostDoc at the University of Siegen in the Group of [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/)
 * 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
 * 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
 
@@ -28,7 +32,8 @@ Publications
 
 **An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**   
 **J. Lukasik**, M. Moeller,  M. Keuper  
-accepted at GCPR 2023
+accepted at GCPR 2023  
+[PDF](https://arxiv.org/pdf/2307.09365.pdf)
 
 **Differentiable Architecture Search: a One-Shot Method?**   
 **J. Lukasik**\*, J. Geiping*, M. Moeller,  M. Keuper  
@@ -44,7 +49,7 @@ ICLR 2023
 ECCV 2022      
 [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) | [Code](https://github.com/jovitalukasik/AG-Net) | [Poster](https://jung.vision/poster/2022_Generative_NAS_Poster.pdf)
 
-**Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks**  
+**Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks**  
 A. Zela\*, JN. Siems\*, L. Zimmer\*, **J. Lukasik**, M. Keuper, F. Hutter  
 ICLR 2022    
 [PDF](https://openreview.net/forum?id=OnpFa95RVqs)
@@ -54,12 +59,12 @@ J. Geiping*, __J. Lukasik*__, M. Keuper, M. Moeller
 NeurIPS workshop on Inverse Problems  
 [PDF](https://openreview.net/forum?id=ty5XCitJfLA) | [Poster](https://openreview.net/attachment?id=ty5XCitJfLA&name=conference_poster)
 
-**Smooth variational graph embeddings for efficient neural architecture search**  
+**Smooth Variational Graph Embeddings for Efficient Neural Architecture Search**  
 **J. Lukasik**, D. Friede, A. Zela, F. Hutter, M. Keuper    
 IJCNN 2021    
 [PDF](https://arxiv.org/pdf/2010.04683.pdf) | [Code](https://github.com/jovitalukasik/SVGe)
  
 **Neural Architecture Performance Prediction Using Graph Neural Networks**  
 **J. Lukasik**, D. Friede, H. Stuckenschmidt, M. Keuper  
-DAGM German Conference on Pattern Recognition, 188-201, 2020  
+GCPR 2020  
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-71278-5_14)
