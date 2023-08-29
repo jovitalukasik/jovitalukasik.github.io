@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc in the [Computer Vision group](https://www.vsa.informatik.uni-siegen.de) supervised by [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/) at the University of Siegen since April 2023, working in the DFG research unit "[Learning to Sense](https://www.learning2sense.de/)". Previously, I was a Ph.D. candidate supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) in the [Computer Vision and Machine Learning](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning) group at the Max-Planck-Institute for Informatics and in the focus group of [Computer Vision in the Data and Web Science Group](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/) at the University of Mannheim.
+I work as a postdoctoral researcher in the [Computer Vision group](https://www.vsa.informatik.uni-siegen.de) supervised by [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/) at the University of Siegen since April 2023. Previously, I was a Ph.D. candidate supervised by [Prof Dr.-Ing. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) in the [Computer Vision and Machine Learning](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning) group at the Max-Planck-Institute for Informatics and in the focus group of [Computer Vision in the Data and Web Science Group](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/) at the University of Mannheim. 
 
-I received my Bachelor of Science degree in Mathematical Finance at the University of Konstanz in 2015 and my Master of Science degree in Business Mathematics at the University of Mannheim in 2019.
 
-Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) and [Giovanni Zappella](https://giovannizappella.github.io/) I also organize the [AutoML Seminars](
+Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/), [Giovanni Zappella](https://giovannizappella.github.io/) and [Rhea Sukthanker](https://ml.informatik.uni-freiburg.de/profile/sukthanker/) I also organize the [AutoML Seminars](
 https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. I was part of the organization team of the second workshop on neural architecture search @ ICLR 2021.
 
 My research mainly focuses on efficient, unsupervised graph representations and embeddings for supervised surrogate models for neural architecture search.
-My work was funded by the BMBF (Federal Ministry of Education and Research) in the project [DeToL – Deep Topology Learning](https://keuperj.github.io/DeToL/) 
+
 
 News
 ---
 * 07/2023 Our paper [An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness](https://arxiv.org/pdf/2307.09365.pdf) was accepted at GCPR 2023
-* 07/2023 I successfully defended my Ph.D. thesis with the title **[Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Search](https://madoc.bib.uni-mannheim.de/64915/1/dissertation_Lukasik.pdf)**
+* 07/2023 I successfully defended my Ph.D. thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Search**
 * 04/2023 I started as a PostDoc at the University of Siegen in the Group of [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/)
 * 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
 * 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
