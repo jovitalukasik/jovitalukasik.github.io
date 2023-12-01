@@ -19,6 +19,8 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 11/2023 I presented my work about *Multi-Objective Performance Prediction for Neural Architecture Search* at the Doctoral Consortium at BMVC 2023!
+* 10/2023 We have one workshop paper (Implicit Representations for Image Segmentation) accepted to Unireps@NeurIPS
 * 07/2023 Our paper [An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness](https://arxiv.org/pdf/2307.09365.pdf) was accepted at GCPR 2023
 * 07/2023 I successfully defended my Ph.D. thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Search**
 * 04/2023 I started as a PostDoc at the University of Siegen in the Group of [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/)
@@ -28,15 +30,18 @@ News
 
 Publications
 ---
+**Implicit Representations for Image Segmentation**   
+J. P. Schneider, M. Fatima, **J. Lukasik**, A. Kolb, M. Keuper, M. Moeller   
+accepted at Unireps@NeurIPS 2023 
 
 **An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**   
 **J. Lukasik**, M. Moeller,  M. Keuper  
-accepted at GCPR 2023  
+GCPR 2023 (oral)  
 [PDF](https://arxiv.org/pdf/2307.09365.pdf)
 
 **Differentiable Architecture Search: a One-Shot Method?**   
 **J. Lukasik**\*, J. Geiping*, M. Moeller,  M. Keuper  
-accepted at AutoML Conference 2023 Workshops
+AutoML Conference 2023 Workshops
 
 **Neural Architecture Design and Robustness: A Dataset**   
 S. Jung\*, **J. Lukasik**\*, M. Keuper  
