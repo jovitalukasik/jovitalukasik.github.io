@@ -19,6 +19,7 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 12/2023 Our paper [Improving Native CNN Robustness with Filter Frequency Regularization](https://openreview.net/pdf?id=2wecNCpZ7Y) was accepted at TMLR!
 * 11/2023 I presented my work about *Multi-Objective Performance Prediction for Neural Architecture Search* at the Doctoral Consortium at BMVC 2023!
 * 10/2023 We have one workshop paper (Implicit Representations for Image Segmentation) accepted to Unireps@NeurIPS
 * 07/2023 Our paper [An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness](https://arxiv.org/pdf/2307.09365.pdf) was accepted at GCPR 2023
@@ -30,9 +31,14 @@ News
 
 Publications
 ---
+**Improving Native CNN Robustness with Filter Frequency Regularization**  
+**J. Lukasik**\*, P. Gavrikov*, J.Keuper,  M. Keuper   
+TMLR 2023  
+[PDF](https://openreview.net/pdf?id=2wecNCpZ7Y)
+
 **Implicit Representations for Image Segmentation**   
 J. P. Schneider, M. Fatima, **J. Lukasik**, A. Kolb, M. Keuper, M. Moeller   
-accepted at Unireps@NeurIPS 2023 
+Unireps@NeurIPS 2023 
 
 **An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**   
 **J. Lukasik**, M. Moeller,  M. Keuper  
@@ -41,7 +47,8 @@ GCPR 2023 (oral)
 
 **Differentiable Architecture Search: a One-Shot Method?**   
 **J. Lukasik**\*, J. Geiping*, M. Moeller,  M. Keuper  
-AutoML Conference 2023 Workshops
+AutoML Conference 2023 Workshops  
+[PDF](https://openreview.net/pdf?id=LV-5kHj-uV5)
 
 **Neural Architecture Design and Robustness: A Dataset**   
 S. Jung\*, **J. Lukasik**\*, M. Keuper  
@@ -60,7 +67,7 @@ ICLR 2022
 
 **DARTS for Inverse Problems: a Study on Sensitivity**  
 J. Geiping*, __J. Lukasik*__, M. Keuper, M. Moeller  
-NeurIPS workshop on Inverse Problems  
+NeurIPS workshop on Inverse Problems  2021  
 [PDF](https://openreview.net/forum?id=ty5XCitJfLA) | [Poster](https://openreview.net/attachment?id=ty5XCitJfLA&name=conference_poster)
 
 **Smooth Variational Graph Embeddings for Efficient Neural Architecture Search**  
