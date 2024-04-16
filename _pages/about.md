@@ -19,6 +19,7 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 03/2024 I am part of the publication chair at ECCV 2024!
 * 12/2023 Our paper [Improving Native CNN Robustness with Filter Frequency Regularization](https://openreview.net/pdf?id=2wecNCpZ7Y) was accepted at TMLR!
 * 11/2023 I presented my work about *Multi-Objective Performance Prediction for Neural Architecture Search* at the Doctoral Consortium at BMVC 2023!
 * 10/2023 We have one workshop paper (Implicit Representations for Image Segmentation) accepted to Unireps@NeurIPS
