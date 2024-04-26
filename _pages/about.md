@@ -19,6 +19,7 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 04/2024 I gave a talk about **Neural Architecture Search – Towards Prediction beyond (CIFAR-10 Accuracy) Benchmarks**  at the [Cambridge Image Analysis Group](http://www.damtp.cam.ac.uk/research/cia/)
 * 03/2024 I am part of the **publication chair** at ECCV 2024!
 * 12/2023 Our paper [Improving Native CNN Robustness with Filter Frequency Regularization](https://openreview.net/pdf?id=2wecNCpZ7Y) was accepted at TMLR!
 * 11/2023 I presented my work about *Multi-Objective Performance Prediction for Neural Architecture Search* at the Doctoral Consortium at BMVC 2023!
