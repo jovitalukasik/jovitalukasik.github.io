@@ -32,12 +32,12 @@ News
 
 Publications
 ---
-**Surprisingly Strong Performance Prediction with Neural Graph Features**
+**Surprisingly Strong Performance Prediction with Neural Graph Features**  
 G. Kadlecová, **J. Lukasik**, M. Pilát, P. Vidnerová, M. Safari, R. Neruda, F. Hutter  
 ICML 2024  
 [PDF](https://openreview.net/pdf?id=EhPpZV6KLk) | [Blog](https://gabikadlecova.github.io/blog/2024/graf/)
 
-**Implicit Representations for Constrained Image Segmentation**
+**Implicit Representations for Constrained Image Segmentation**  
 J. P. Schneider, M. Fatima, **J. Lukasik**, A. Kolb, M. Keuper, M. Moeller    
 ICML 2024  
 [PDF](https://openreview.net/pdf?id=IaV6AgrTUp) | [Project Page](https://github.com/jp-schneider/awesome)
