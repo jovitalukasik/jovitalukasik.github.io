@@ -19,6 +19,8 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 06/2024 Gabriela and me will present a Tutorial at AutoML 2024: **Towards Zero-Cost Proxies for Performance Prediction beyond CIFAR-10**!
+* 05/2024 Two papers were accepted to ICML 2024!
 * 04/2024 I gave a talk about **Neural Architecture Search – Towards Prediction beyond (CIFAR-10 Accuracy) Benchmarks**  at the [Cambridge Image Analysis Group](http://www.damtp.cam.ac.uk/research/cia/)
 * 03/2024 I am part of the **publication chair** at ECCV 2024!
 * 12/2023 Our paper [Improving Native CNN Robustness with Filter Frequency Regularization](https://openreview.net/pdf?id=2wecNCpZ7Y) was accepted at TMLR!
@@ -26,14 +28,20 @@ News
 * 10/2023 We have one workshop paper (Implicit Representations for Image Segmentation) accepted to Unireps@NeurIPS
 * 09/2023 I was a panelist on the panel discussion for [AutoML,Trustworthiness & Alignment at AutoML 2023](https://2023.automl.cc/program/panels/panel3/)
 * 07/2023 Our paper [An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness](https://arxiv.org/pdf/2307.09365.pdf) was accepted at GCPR 2023
-* 07/2023 I successfully defended my Ph.D. thesis with the title **Topology Learning for Prediction, Generation, and Robustness in Neural Architecture Search**
-* 04/2023 I started as a PostDoc at the University of Siegen in the Group of [Prof. Dr. Michael Moeller](https://sites.google.com/site/michaelmoellermath/)
-* 01/2023 Our paper [Neural Architecture Design and Robustness: A Dataset](https://steffen-jung.github.io/robustness/Robustness_Dataset_ICLR23_2023Jan23.pdf) was accepted at ICLR 2023
-* 09/2022 Our paper [Learning Where to Look - Generative NAS is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022_paper.php) was accepted at ECCV 2022
 
 
 Publications
 ---
+**Surprisingly Strong Performance Prediction with Neural Graph Features**
+G. Kadlecová, **J. Lukasik**, M. Pilát, P. Vidnerová, M. Safari, R. Neruda, F. Hutter  
+ICML 2024  
+[PDF](https://openreview.net/pdf?id=EhPpZV6KLk) | [Blog](https://gabikadlecova.github.io/blog/2024/graf/)
+
+**Implicit Representations for Constrained Image Segmentation**
+J. P. Schneider, M. Fatima, **J. Lukasik**, A. Kolb, M. Keuper, M. Moeller    
+ICML 2024  
+[PDF](https://openreview.net/pdf?id=IaV6AgrTUp) | [Project Page](https://github.com/jp-schneider/awesome)
+
 **Improving Native CNN Robustness with Filter Frequency Regularization**  
 **J. Lukasik**\*, P. Gavrikov*, J.Keuper,  M. Keuper   
 TMLR 2023  
