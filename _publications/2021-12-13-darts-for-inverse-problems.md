@@ -29,7 +29,7 @@ We conclude the necessity to 1) report the results of any DARTS-based methods fr
 
       @inproceedings{
         geiping2021darts,
-        title={{DARTS} for Inverse Problems: a Study on Stability},
+        title={DARTS for Inverse Problems: a Study on Stability},
         author={Jonas Geiping and Jovita Lukasik and Margret Keuper and Michael Moeller},
         booktitle={NeurIPS 2021 Workshop on Deep Learning and Inverse Problems},
         year={2021},
