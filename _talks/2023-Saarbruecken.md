@@ -4,7 +4,7 @@ collection: talks
 type: "Inivted Talk"
 permalink: /talks/2023-Saarbruecken
 venue: "Saarland University - Computer Vision and Machine Perception Lab"
-date: 2023-01
+date: 2023-01-17
 location: "Saarbruecken, Germany"
 ---
 
