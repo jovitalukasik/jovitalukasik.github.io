@@ -12,10 +12,8 @@ arxiv: 'https://arxiv.org/abs/2010.10024'
 code: https://github.com/jovitalukasik/GNN_predictor
 ---
 
-{{ page.authors }}
-
-
 ## Abstract 
+
 >In computer vision research, the process of automating architecture engineering, Neural Architecture Search (NAS), has gained substantial interest. Due to the high computational costs, most recent approaches to NAS as well as the few available benchmarks only provide limited search spaces. In this paper we propose a surrogate model for neural architecture performance prediction built upon Graph Neural Networks (GNN). We demonstrate the effectiveness of this surrogate model on neural architecture performance prediction for structurally unknown architectures (i.e. zero shot prediction) by evaluating the GNN on several experiments on the NAS-Bench-101 dataset.
 
 ## Resources
