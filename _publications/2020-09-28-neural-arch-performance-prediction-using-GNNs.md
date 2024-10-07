@@ -13,7 +13,7 @@ code: https://github.com/jovitalukasik/GNN_predictor
 ---
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/LukasikGCPR2020.pdf" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
