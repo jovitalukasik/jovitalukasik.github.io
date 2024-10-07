@@ -4,7 +4,7 @@ collection: talks
 type: "Inivted Talk"
 permalink: /talks/2023-Siegen
 venue: "University of Siegen - Learning 2 Sense Talks"
-date: 2023-07
+date: 2023-07-05
 location: "Siegen, Germany"
 ---
 
