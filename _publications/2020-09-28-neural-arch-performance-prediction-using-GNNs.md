@@ -7,10 +7,13 @@ venue: 'DAGM German Conference on Pattern Recognition'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-71278-5_14'
 authors: '<b>Jovita Lukasik</b>, David Friede, Heiner Stuckenschmidt, Margret Keuper'
 bibtex: true
+teaser: /previews/LukasikGCPR2020.pdf
 arxiv: 'https://arxiv.org/abs/2010.10024'
 code: https://github.com/jovitalukasik/GNN_predictor
 ---
 {{ page.authors }}
+
+<img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
