@@ -25,12 +25,11 @@ teaser: /previews/LukasikIJCNN2021.pdf
 
 ## Bibtex 
 
-@inproceedings{Lukasik2021svge,
-   author={Lukasik, Jovita and Friede, David and Zela, Arber and Hutter, Frank and Keuper, Margret},
-    booktitle={2021 International Joint Conference on Neural Networks (IJCNN)}, 
-    title={Smooth Variational Graph Embeddings for Efficient Neural Architecture Search}, 
-    year={2021},
-}
+      @inproceedings{Lukasik2021svge,
+         author={Lukasik, Jovita and Friede, David and Zela, Arber and Hutter, Frank and Keuper, Margret},
+          booktitle={2021 International Joint Conference on Neural Networks (IJCNN)}, 
+          title={Smooth Variational Graph Embeddings for Efficient Neural Architecture Search}, 
+          year={2021}}
 
 
 
