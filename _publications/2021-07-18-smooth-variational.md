@@ -13,7 +13,7 @@ teaser: /previews/LukasikIJCNN2021.pdf
 ---
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/LukasikGCPR2020.pdf" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/LukasikIJCNN2021" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
