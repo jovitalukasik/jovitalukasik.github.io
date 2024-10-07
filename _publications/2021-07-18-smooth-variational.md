@@ -9,7 +9,7 @@ authors: '<b>Jovita Lukasik</b>, David Friede, Arber Zela, Frank Hutter, Margret
 arxiv: 'https://arxiv.org/pdf/2010.04683' 
 code: https://github.com/jovitalukasik/SVGe
 bibtex: true
-teaser: /previews/LukasikIJCNN2021.pdf
+teaser: previews/LukasikIJCNN2021.png
 ---
 {{ page.authors }}
 
