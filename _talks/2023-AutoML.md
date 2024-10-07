@@ -4,7 +4,7 @@ collection: talks
 type: "Panelist"
 permalink: /talks/2023-AutoML
 venue: "AutoML Conference - Panel Discussion"
-date: 2023-09
+date: 2023-09-14
 location: "Potsdam, Germany"
 ---
 
