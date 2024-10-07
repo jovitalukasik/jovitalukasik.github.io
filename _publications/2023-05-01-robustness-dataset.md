@@ -8,12 +8,12 @@ paperurl: 'https://openreview.net/forum?id=p8coElqiSDw'
 authors: 'Steffen Jung, <b>Jovita Lukasik</b>, Margret Keuper'
 arxiv: 'https://arxiv.org/abs/2203.08734'
 bibtex: true
-teaser: /previews/JungICLR2023.pdf
+teaser: /previews/JungICLR2023.png
 code: https://steffen-jung.github.io/robustness/
 ---
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/JungICLR2023.pdf" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/JungICLR2023.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
