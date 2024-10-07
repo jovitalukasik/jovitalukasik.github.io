@@ -8,12 +8,12 @@ paperurl: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6011_ECCV_2022
 authors: '<b>Jovita Lukasik</b>, Steffen Jung, Margret Keuper'
 arxiv: 'https://arxiv.org/abs/2203.08734'
 bibtex: true
-teaser: /previews/LukasikECCV2022.pdf
+teaser: /previews/LukasikECCV2022.png
 code: http://github.com/jovitalukasik/AG-Net
 ---
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/LukasikECCV2022.pdf" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/LukasikECCV2022.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
