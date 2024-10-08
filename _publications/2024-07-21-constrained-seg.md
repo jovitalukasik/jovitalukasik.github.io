@@ -1,5 +1,5 @@
 ---
-title: "Improving Native CNN Robustness with Filter Frequency Regularization"
+title: "Implicit Representations for Constrained Image Segmentation"
 collection: publications
 permalink: /publication/2024-07-21-constrained-seg
 date: 2024-07-21
