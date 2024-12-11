@@ -30,7 +30,7 @@ code: https://github.com/jovitalukasik/zcp_eval
 	author={Lukasik, Jovita and Moeller, Michael and Keuper, Margret},
 	title={An Evaluation of Zero-Cost Proxies - From Neural Architecture Performance Prediction to Model Robustness},
 	booktitle={DAGM German Conference on Pattern Recognition},
-	year={2024}}
+	year={2023}}
 
 
 
