@@ -81,9 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jovita Lukasik"
-  avatar           : "2025-01_Dr-Jovita-Lukasik-at-ZESS_Copyright-Jan-Soehlke-ZESS-Uni-Siegen_001.png"
-  bio              : "PostDoc | Generation and Robustness in Neural Architecture Search 
-                    [Photo: Jan Söhlke/ZESS, Uni Siegen]"
+  avatar           : "_Jovita_copyright_Sohlke.jpg"
+  bio              : "PostDoc | Generation and Robustness in Neural Architecture Search [Photo: Jan Söhlke/ZESS, Uni Siegen]"
   location         : "University of Siegen / Germany"
   employer         :
   pubmed           : 
