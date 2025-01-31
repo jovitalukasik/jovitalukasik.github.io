@@ -19,6 +19,7 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 01/2025 Our paper [**Can We Talk Models Into Seeing the World Differently?**](https://openreview.net/pdf?id=iVMcYxTiVM) was accepted at ICLR 2025!
 * 10/2024 Our paper [**An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**](https://link.springer.com/article/10.1007/s11263-024-02265-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241209&utm_content=10.1007%2Fs11263-024-02265-7#citeas) was accepted at International Journal of Computer Vision!
 * 09/2023 I was a panelist on the panel discussion about *Bridging the Gap between Industry and Academia* at [AutoML 2024](https://2024.automl.cc/)
 * 06/2024 Gabriela and me will present a Tutorial at AutoML 2024: [**Towards Zero-Cost Proxies for Performance Prediction beyond CIFAR-10**](https://2024.automl.cc/?page_id=1634)!
