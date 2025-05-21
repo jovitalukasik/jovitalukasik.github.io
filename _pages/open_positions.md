@@ -5,11 +5,11 @@ title: "Open Positions"
 author_profile: true
 
 ---
-**Join Our Computer Vision Group: PhD Opportunities Available**
+## Join Our Computer Vision Group: PhD Opportunities Available
 
 We invite motivated students to explore the exciting intersection of visual computing and automated machine learning within the broader context of machine learning. Our research focuses on developing more efficient machine learning approaches for various computer vision tasks. While prior experience with automated machine learning is advantageous, it is not required.
 
-Eligibility Criteria:
+**Eligibility Criteria:**
 ---
 - Candidates must hold a Master’s degree in Computer Science, Mathematics, Physics, or a related field.
 - Advanced English skills is required; knowledge of German is not necessary.
@@ -19,7 +19,7 @@ All PhD positions are full-time employee positions at the University of Siegen, 
 
 
 
-Application Process:
+**Application Process:**
 ---
 If you are interested, please send your application to jovita.lukasik at uni-siegen.de. We will be interviewing as applications come in. Your application should include the following:
 
