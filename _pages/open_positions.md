@@ -1,6 +1,6 @@
 ---
-layout: single
-permalink: /Open Positions/
+layout: archive
+permalink: /open_positions/
 title: "Open Positions"
 author_profile: true
 
