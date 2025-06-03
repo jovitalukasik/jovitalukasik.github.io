@@ -19,6 +19,8 @@ My research mainly focuses on efficient, unsupervised graph representations and 
 
 News
 ---
+* 05/2025 Our paper **Transferrable Surrogates in Expressive Neural Architecture Search Spaces** was accepted at AutoML 2025!
+* 03/2024 I am part of the [**tutoral and workshop chair**](https://2025.automl.cc/organizers/) at [AutoML 2025](https://2025.automl.cc)!
 * 01/2025 Our paper [**Can We Talk Models Into Seeing the World Differently?**](https://openreview.net/pdf?id=iVMcYxTiVM) was accepted at ICLR 2025!
 * 10/2024 Our paper [**An Evaluation of Zero-Cost Proxies - from Neural Architecture Performance to Model Robustness**](https://link.springer.com/article/10.1007/s11263-024-02265-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241209&utm_content=10.1007%2Fs11263-024-02265-7#citeas) was accepted at International Journal of Computer Vision!
 * 09/2024 I was a panelist on the panel discussion about *Bridging the Gap between Industry and Academia* at [AutoML 2024](https://2024.automl.cc/)
