@@ -5,7 +5,7 @@ title: "Open Positions"
 author_profile: true
 
 ---
-## Join Our Computer Vision Group: PhD Opportunities Available
+## Join Our Visual Computing Group: PhD Opportunities Available
 
 We invite motivated students to explore the exciting intersection of visual computing and automated machine learning within the broader context of machine learning. Our research focuses on developing more efficient machine learning approaches for various computer vision tasks.
 
