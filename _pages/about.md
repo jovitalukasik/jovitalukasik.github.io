@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the University of Siegen and head of the Visual Computing group. I obtained my Ph.D. in Computer Science in 2023 from the University of Mannheim under the supervision of [Prof Dr.-Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/), and was a postdoctoral researcher at the University of Siegen under the supervision of [Prof Dr. Michael Moeller](https://www.vsa.informatik.uni-siegen.de/en) from 2023 to 2025.
+I am an assistant professor at the University of Siegen and head of the Visual Computing group. I recently got the renowned [Emmy Noether Programme](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) fund from the German Research Foundation (DFG). This supports my research in Neural Architecture Search and Weight Space Learning. I obtained my Ph.D. in Computer Science in 2023 from the University of Mannheim under the supervision of [Prof Dr.-Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/), and was a postdoctoral researcher at the University of Siegen under the supervision of [Prof Dr. Michael Moeller](https://www.vsa.informatik.uni-siegen.de/en) from 2023 to 2025.
 
  
 Together with [Aaron Klein](https://aaronkl.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/), [Giovanni Zappella](https://giovannizappella.github.io/) and [Rhea Sukthanker](https://ml.informatik.uni-freiburg.de/profile/sukthanker/) I also organize the [AutoML Seminars](
 https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. I was part of the organization team of the second workshop on neural architecture search @ ICLR 2021, and am part of the organizing team of the first ``learning 2 sense'' workshop @ NeurIPS 2025
 
-My research mainly focuses on efficient graph representations and embeddings for supervised surrogate models for neural architecture search.
+My research mainly focuses on network representations for efficient neural architecture search for computer vision, as well as designing robust neural networks.
 
 
 News
