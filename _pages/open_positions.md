@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Join Our Visual Computing Group: PhD Opportunities Available
 
-Currently 2 open positions for the *Emmy Noether Programm* funded project  : **Enhancing Network Efficiency through Combined Weight Space Learning and Architecture Search**
+There are currently no open positions.
 
 Motivated students are invited to explore this exciting research project. It focuses on Neural Architecture Search and Weight Space Learning in computer vision, aiming to develop efficient and robust networks at once.
 
