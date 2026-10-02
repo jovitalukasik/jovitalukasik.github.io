@@ -7,11 +7,11 @@ venue: 'International Conference on 3D Vision'
 paperurl: 'https://openreview.net/pdf?id=GfTl5ToYrn'
 authors: 'Natacha Kuete Meli, <b>Jovita Lukasik</b>, Vladislav Golyanik, Michael Moeller'
 bibtex: true
-teaser: /previews/Kuete3DV2026.pdf
+teaser: /previews/Kuete3DV2026.png
 ---
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/Kuete3DV2026.pdf" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/Kuete3DV2026.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract 
 
