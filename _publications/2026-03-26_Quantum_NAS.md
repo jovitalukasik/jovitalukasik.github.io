@@ -22,7 +22,7 @@ teaser: /previews/Kuete3DV2026.png
 {% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
 
 ## Bibtex 
-    @inproceedings{
+@inproceedings{
       meli2026layered,
       title={Layered Quantum Architecture Search for 3D Point Cloud Classification},
       author={Natacha Kuete Meli and Jovita Lukasik and Vladislav Golyanik and Michael Moeller},
