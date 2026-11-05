@@ -1,7 +1,7 @@
 ---
 title: "Layered Quantum Architecture Search for 3D Point Cloud Classification"
 collection: publications
-permalink: /publication/2026-03-26_Quantum_NAS
+permalink: /2026-03-26_Quantum_NAS
 date: 2026-03-26
 venue: 'International Conference on 3D Vision'
 paperurl: 'https://openreview.net/pdf?id=GfTl5ToYrn'
